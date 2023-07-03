@@ -1,5 +1,5 @@
 {
-  "name": "@revolist/vue-datagrid",
+  "name": "@dextromethorphanum/vue-datagrid",
   "version": "3.5.2",
   "description": "Vue data grid spreadsheet",
   "main": "dist/vgrid.js",
