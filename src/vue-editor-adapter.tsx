@@ -1,5 +1,5 @@
-import { Edition, RevoGrid } from '@dextromethorphanum/custom-rf-revogrid/dist/types/interfaces';
-import { VNode } from '@dextromethorphanum/custom-rf-revogrid/dist/types/stencil-public-runtime';
+import { Edition, RevoGrid } from '@dextromethorphanum/revogrid/dist/types/interfaces';
+import { VNode } from '@dextromethorphanum/revogrid/dist/types/stencil-public-runtime';
 import { VueConstructor } from 'vue/types/umd';
 import { vueTemplateConstructor } from './vue-template';
 

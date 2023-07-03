@@ -15,7 +15,7 @@ module.exports = {
   },
   externals: [
     'vue',
-    '@dextromethorphanum/custom-rf-revogrid',
+    '@dextromethorphanum/revogrid',
     /^@revolist\/revogrid\//,
     '@stencil/core',
   ],

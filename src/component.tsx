@@ -1,6 +1,6 @@
 import Vue, { CreateElement } from "vue";
-import RevoGrid from "@dextromethorphanum/custom-rf-revogrid";
-import { RevoGrid as RevoGridComponent } from "@dextromethorphanum/custom-rf-revogrid/custom-element";
+import RevoGrid from "@dextromethorphanum/revogrid";
+import { RevoGrid as RevoGridComponent } from "@dextromethorphanum/revogrid/custom-element";
 
 type Prop = keyof RevoGrid.Components.RevoGrid;
 type Grid = RevoGrid.Components.RevoGrid;

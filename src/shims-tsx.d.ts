@@ -1,7 +1,7 @@
 import {
   VNode,
   JSXBase,
-} from '@dextromethorphanum/custom-rf-revogrid/dist/types/stencil-public-runtime';
+} from '@dextromethorphanum/revogrid/dist/types/stencil-public-runtime';
 
 declare global {
   namespace JSX {
